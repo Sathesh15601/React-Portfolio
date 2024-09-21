@@ -1,0 +1,41 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.background1 {
+  background-image: url(./assets/1.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.background2 {
+  background-image: url(./assets/2.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.background3 {
+  background-image: url(./assets/3.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.background4 {
+  background-image: url(./assets/4.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.background5 {
+  background-image: url(./assets/5.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.background6 {
+  background-image: url(./assets/6.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
