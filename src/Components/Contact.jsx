@@ -141,7 +141,8 @@ const Contact = () => {
         </div>
         <div className="flex justify-center mt-4">
           <a
-            href="#"
+            href="https://github.com/Sathesh15601/React-Portfolio"
+            target="_blank"
             className="bg-green-900 text-white inline-block transform transition-transform duration-300 hover: active:bg-green-800 hover:bg-green-600 hover:scale-105 px-4 py-2 rounded "
           >
             Source Code
