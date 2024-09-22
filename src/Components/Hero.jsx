@@ -32,10 +32,10 @@ const Hero = () => {
             </a>
           </div>
 
-          <h1 className="text-5xl font-bold animate-float text-green-950">
+          <h1 className="text-3xl font-bold animate-float text-green-950 md:text-5xl">
             Hi, I'm{" "}
             <span
-              className="text-transparent text-7xl bg-clip-text bg-gradient-to-l from-green-900 to-green-500"
+              className="text-transparent text-4xl bg-clip-text bg-gradient-to-l from-green-900 to-green-500 md:text-7xl "
               id="Name"
             >
               SathesHKumaR
