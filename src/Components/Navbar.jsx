@@ -15,12 +15,12 @@ const Navbar = () => {
   return (
     <div>
       <nav className="background6  fixed w-full z-20 ">
-        <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 gap-4 md:gap-8">
+        <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto  gap-4 md:gap-8">
           <a href="#">
             <Lottie
               animationData={ReactAnimation}
               loop={true}
-              className="w-10 md:w-10 lg:w-15"
+              className="w-10 md:w-20 p-1 lg:w-15"
             />
           </a>
 

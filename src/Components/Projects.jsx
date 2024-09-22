@@ -42,8 +42,8 @@ const Projects = () => {
                   e.target.src = "path/to/default/image.png";
                 }}
               />
-              <h3 className="text-2xl font-bold mb-2">{project.name}</h3>
-              <p className="text-gray-300 mb-4">{project.description}</p>
+              <h3 className="text-2xl text-black mb-2">{project.name}</h3>
+              <p className="text-green-300 mb-4">{project.description}</p>
               <div className="flex justify-between">
                 <a
                   href={project.github}
