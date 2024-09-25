@@ -1,6 +1,5 @@
 import Lottie from "lottie-react";
 import SkillsAnimation from "./../assets/Skills.json";
-
 import { FaHtml5, FaCss3Alt, FaBootstrap, FaReact } from "react-icons/fa";
 import { RiTailwindCssFill } from "react-icons/ri";
 
