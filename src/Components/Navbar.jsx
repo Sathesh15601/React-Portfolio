@@ -14,7 +14,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <nav className="background6  fixed w-full z-20 ">
+      <nav className=" background6  fixed w-full z-20 " id="navbar">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 gap-4 md:gap-6">
           <a href="#">
             <Lottie

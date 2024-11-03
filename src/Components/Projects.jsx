@@ -1,24 +1,24 @@
 import employeeMSImage from "../assets/WeatherProjects.png";
-import bookMSImage from "../assets/Crud.png";
+import bookMSImage from "../assets/ViteTodolist.png";
 
 const projects = [
   {
     id: 1,
     name: "Weather Application",
     description:
-      "I deployed the project on Netlify. It's smooth and responsive using HTML, CSS, and JavaScript. Users can search for a location and view the weather report.",
+      "Very smooth and responsive using HTML, CSS, and JavaScript. Users can search for a location and view the weather report.",
     image: employeeMSImage,
     github: "https://github.com/Sathesh15601/Weather-app.git",
     preview: "https://weather15601app.netlify.app/",
   },
   {
     id: 2,
-    name: "Student Records",
+    name: "Todolist from localstorage",
     description:
-      "CRUD (MERN-stack) ongoing project. This project will allow individual user creation with a signup/login page using Express.js, Node.js, and MongoDB Compass.",
+      "Using React js and tailwind css then it will store the data in localstorage when we reload the page it will still displayed the stored data ",
     image: bookMSImage,
-    github: "https://github.com/Sathesh15601/Crud-with-backend.git",
-    preview: "#",
+    github: "https://github.com/Sathesh15601/TodoList-from-LocalStorage.git",
+    preview: "https://vitetodolist.netlify.app/",
   },
 ];
 
@@ -31,7 +31,7 @@ const Projects = () => {
           {projects.map((project) => (
             <div
               key={project.id}
-              className="bg-green-700 p-6 rounded-xl shadow-lg hover:scale-105 transition-transform duration-300 ease-out overflow-hidden" // Modified here
+              className="bg-green-700 p-6 rounded-xl shadow-lg hover:scale-105 transition-transform duration-300 ease-out overflow-hidden"
               data-aos="fade-right"
             >
               <img
