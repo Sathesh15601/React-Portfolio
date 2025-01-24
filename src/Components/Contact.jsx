@@ -4,7 +4,6 @@ import { FaPhoneAlt } from "react-icons/fa";
 import { MdLocationOn } from "react-icons/md";
 import { FaGithubSquare } from "react-icons/fa";
 import { IoLogoLinkedin } from "react-icons/io5";
-
 const Contact = () => {
   const [result, setResult] = React.useState("");
 
