@@ -1,4 +1,4 @@
-import HeroImage from "./../assets/ProfileLogo.png";
+import HeroImage from "../assets/profile.png";
 import { FaGithubSquare } from "react-icons/fa";
 import { IoLogoLinkedin } from "react-icons/io5";
 
