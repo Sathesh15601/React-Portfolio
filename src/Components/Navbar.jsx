@@ -3,6 +3,7 @@ import Lottie from "lottie-react";
 import ReactAnimation from "./../assets/React.json";
 import { RiMenu3Fill } from "react-icons/ri";
 import { IoClose } from "react-icons/io5";
+
 import "./../App.css";
 
 const Navbar = () => {
@@ -14,7 +15,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <nav className=" background6  fixed w-full z-20 " id="navbar">
+      <nav className=" background  fixed w-full z-20 " id="navbar">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 gap-4 md:gap-6">
           <a href="#">
             <Lottie

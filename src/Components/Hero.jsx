@@ -20,9 +20,9 @@ const Hero = () => {
         >
           <div className="flex justify-center md:justify-start gap-4 mb-4 text-4xl ">
             <a
-              href="https://www.linkedin.com/in/satheshvpm15601/"
-              className="hover:text-green-400"
+              href="https://www.linkedin.com/in/sathesh15601"
               target="_blank"
+              className="hover:text-green-400"
             >
               <IoLogoLinkedin />
             </a>
