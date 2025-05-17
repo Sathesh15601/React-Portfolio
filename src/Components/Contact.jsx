@@ -122,7 +122,7 @@ const Contact = () => {
         <div className=" flex mt-2 justify-center ">
           Follow me on{" "}
           <a
-            href="https://www.linkedin.com/in/satheshvpm15601/"
+            href="https://www.linkedin.com/in/sathesh15601"
             target="_blank"
             rel="noopener noreferrer"
             className="p-1"
