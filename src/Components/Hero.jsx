@@ -20,7 +20,7 @@ const Hero = () => {
         >
           <div className="flex justify-center md:justify-start gap-4 mb-4 text-4xl ">
             <a
-              href="https://www.linkedin.com/in/satheshvpm15601/"
+              href="www.linkedin.com/in/sathesh15601"
               className="hover:text-green-400"
               target="_blank"
             >
@@ -48,7 +48,7 @@ const Hero = () => {
           <div className="mt-10">
             <a
               target="_blank"
-              href="https://drive.google.com/file/d/1v1XJSJBatunJB7IlaQciMFQ3iHhW6ReF/view?usp=sharing"
+              href="https://drive.google.com/file/d/1XNZNjVKg1QMwOkaIciKrVs4tZ1sOCyel/view?usp=sharing"
               className="bg-green-900 text-white inline-block transform transition-transform duration-300 hover: active:bg-green-800 hover:bg-green-600 hover:scale-105 px-4 py-2 rounded "
             >
               Resume
